@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://c.tenor.com/QP4hU_uG9x4AAAAd/revolution.gif" 
-     width="200" 
-     height="200" />
+  <img src="https://rozetked.me/images/uploads/eHnoi9AEdz0u.gif" 
+      />
 </div>
