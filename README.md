@@ -28,10 +28,11 @@ me.greetings()
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Editor-XCode-informational?style=flat&logo=xcode&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/XCode-informational?style=for-the-badge&logo=xcode&logoColor=white&color=blue)
+![](https://img.shields.io/badge/IJ-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Swift-informational?style=for-the-badge&logo=swift&logoColor=orange&color=white)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=green&color=white)
+![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=coffeescript&logoColor=orange&color=white)
 
 ## 🏆 GitHub Trophies
 
