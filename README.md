@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=icerzack&left_text=My%20Page%20Visitors)
+![](https://komarev.com/ghpvc/?username=icerzack&label=My+profile+views)
 
 ```swift
 import Foundation
