@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=icerzack&label=My+profile+views)
 
 * Currently I'm into Go development
-* Experienced iOS developer in the past
+* Worked a lot with iOS development in the past
 * Currently studying at ITMO University
 * [maxkuznetsov.space](https://maxkuznetsov.space)
 
