@@ -1,6 +1,10 @@
 <div align="center">
-  <img height="150" src="https://little.kylerconway.com/images/golang-what.gif"  />
+  <img height="130" src="https://little.kylerconway.com/images/golang-what.gif"  />
 </div>
+
+###
+
+<h1 align="center">Hi 👋, I'm Max!</h1>
 
 ###
 
@@ -12,10 +16,6 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Hi 👋, I'm Max!</h1>
 
 ###
 
