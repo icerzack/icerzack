@@ -1,7 +1,3 @@
-<div align="left">
-  <img height="130" src="https://little.kylerconway.com/images/golang-what.gif"  />
-</div>
-
 ###
 
 <h1 align="left">Hi 👋, I'm Max!</h1>
