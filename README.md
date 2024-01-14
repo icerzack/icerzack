@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Go Developer<br>- 📚 I'm currently studying at <a href="https://en.itmo.ru/">ITMO</a> University<br>- 🖥️ My site: <a href="https://maxkuznetsov.space">maxkuznetsov.space</a></p>
+<p align="left">- 🔭 I’m working as a Go Developer<br>- 📚 I'm currently studying at <a href="https://en.itmo.ru/">ITMO</a> University<br>- 🖥️ My site: <a href="https://icerzack.space">icerzack.space</a></p>
 
 ###
 
