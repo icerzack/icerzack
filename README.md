@@ -22,13 +22,3 @@
 <p align="left">- 🔭 I’m working as a Go Developer<br>- 📚 I'm currently studying at <a href="https://en.itmo.ru/">ITMO</a> University<br>- 🖥️ My site: <a href="https://icerzack.space">icerzack.space</a></p>
 
 ###
-
-<h3 align="left">🔥 My stats</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=icerzack&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
