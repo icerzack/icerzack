@@ -19,6 +19,6 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Go Developer<br>- 📚 I'm currently studying at <a href="https://en.itmo.ru/">ITMO</a> University<br>- 🖥️ My site: <a href="https://icerzack.space">icerzack.space</a></p>
+<p align="left">- 🔭 Working in Identity and Access Management (IAM) team at <a href="https://selectel.com">Selectel</a><br>- 📚 Master's degree student at <a href="https://en.itmo.ru/">ITMO</a> University<br>- 🖥️ Visit my site for more info: <a href="https://icerzack.space">icerzack.space</a></p>
 
 ###
